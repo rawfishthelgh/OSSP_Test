@@ -1,4 +1,8 @@
 #OSSP_TEST
 
-Hello World!
+fetch&merge
+A
+B
+C
+
 
